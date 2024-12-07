@@ -1,18 +1,15 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Shiv </h2>
 <h3 align="center">Machine Learning & AI Engineer 🤖</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" style="width:220px;" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" style="width:190px;" />
 
-• 👀 I'm interested in LLMs, Prompt Engineering, Langchain and RAG pipelines
-
-• 🌱 I'm currently learning about applying AI agents in Anti Money Laundering & Fraud Analytics
-
-• 🎓 MASc Electrical & Computer Eng. with Artificial Intelligence at the University of Windsor, Canada
-
-• 📚 BTech Electrical & Computer Engineering at Nirma University, Ahmedabad, India
-
-• 📫 Contact me via email: shivang.rana.1996@gmail.com
-
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li style="margin-bottom: 5px">👀 I'm interested in LLMs, Prompt Engineering, Langchain and RAG pipelines</li>
+  <li style="margin-bottom: 5px">🌱 I'm currently learning about applying AI agents in Anti Money Laundering & Fraud Analytics</li>
+  <li style="margin-bottom: 5px">🎓 MASc Electrical & Computer Eng. with Artificial Intelligence at the University of Windsor, Canada</li>
+  <li style="margin-bottom: 5px">📚 BTech Electrical & Computer Engineering at Nirma University, Ahmedabad, India</li>
+  <li style="margin-bottom: 5px">📫 Contact me via email: shivang.rana.1996@gmail.com</li>
+</ul>
 
 
 <h2 align="center"> ⚓ My Toolkit</h2>
