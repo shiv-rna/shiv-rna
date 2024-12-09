@@ -13,12 +13,13 @@
 </ul>
 
 <h2 align="center">⚓ My Toolkit</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" style="width:500px;" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" style="width:250px;" />
 <!-- Core ML/DL Frameworks -->
 <p style="font-size:0">
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=python" height="25" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/PyTorch-white?style=flat&logo=pytorch" height="25" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/TensorFlow-white?style=flat&logo=tensorflow" height="25" style="margin-right: 4px">
-<img src="https://img.shields.io/badge/Keras-white?style=flat&logo=keras&logoColor=red" height="25" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/XGBoost-white?style=flat&logo=XGBoost&logoColor=red" height="25" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Scikit--learn-white?style=flat&logo=scikit-learn" height="25" style="margin-right: 4px">
 </p>
 
@@ -67,13 +68,16 @@
 <img src="https://img.shields.io/badge/Plotly-white?style=flat&logo=plotly&logoColor=blue" height="25" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Streamlit-white?style=flat&logo=streamlit" height="25" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Gradio-white?style=flat&logo=gradio" height="25" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/PowerBI-white?style=flat&logo=PowerBI" height="25" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Looker-white?style=flat&logo=looker" height="25" style="margin-right: 4px">
 </p>
 
 
 <!---
 shiv-rna/shiv-rna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+Tools: 
+Keras, JAX, 
 - 🥑 Check out my portfolio website at [mitchellsparrow.com](https://mitchellsparrow.com)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
