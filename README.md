@@ -13,7 +13,7 @@
 </ul>
 
 <h2 align="center">⚓ My Toolkit</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" style="width:250px;" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" style="width:350px;" />
 <!-- Core ML/DL Frameworks -->
 <p style="font-size:0">
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python" height="25" style="margin-right: 4px">
