@@ -5,7 +5,7 @@
 
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li style="margin-bottom: 5px">👀 Interested in <b>LLMs, Prompt Engineering, Langchain and RAG pipelines</b></li>
-  <li style="margin-bottom: 5px">🌱 Learning about applying <b>AI agents in Anti Money Laundering & Fraud Analytics</b></li>
+  <li style="margin-bottom: 5px">🌱 Learning about applying <b>AI agents in Anti Money Laundering, Fraud & Healthcare Analytics</b></li>
   <li style="margin-bottom: 5px">🎓 MASc Electrical & Computer Eng. at the University of Windsor, Canada</li>
   <li style="margin-bottom: 5px">📄 Thesis focus on Skin Cancer diagnosis pipeline supplemented with synthetic generation</li>
   <li style="margin-bottom: 5px">📚 BTech Electrical & Computer Engineering at Nirma University, Ahmedabad, India</li>
